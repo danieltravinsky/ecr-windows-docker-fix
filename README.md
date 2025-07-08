@@ -15,5 +15,5 @@ Simply run [fix-bad-stub.ps1](fix-bad-stub.ps1) in powershell, restart Docker De
 Thanks to @mirco-bozzolini for the fix
 Read more about the issue in the [aws-cli issues #5636](https://github.com/aws/aws-cli/issues/5636#issuecomment-2697132067)
 
-![AVATAR](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/73277118?v=4&width=50&height=50&mask=circle&maxage=7d
-)
+[![AVATAR](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/73277118?v=4&width=50&height=50&mask=circle&maxage=7d
+)](https://github.com/danieltravinsky)
